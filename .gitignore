@@ -1,3 +1,5 @@
+.env
+.env.local
 venv/
 __pycache__/
 *.pyc
@@ -6,4 +8,3 @@ __pycache__/
 *.log
 conversations/
 *.jsonl
-*.key
