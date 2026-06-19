@@ -1,4 +1,4 @@
-# Rizz HB Bot 🤙
+# Rizz HB Bot 🤙 — [@rizzhbbot](https://t.me/rizzhbbot)
 
 A Telegram bot that generates smooth pickup lines ("rizz") from forwarded conversations using Groq AI.
 
